@@ -1,0 +1,41 @@
+* {
+    font-family: 'Futura', Verdana, sans-serif;
+    /*outline: 2px solid red;*/
+  }  
+
+body {
+background: rgb(252, 243, 245);
+text-align: center;
+padding: 20px;
+}
+
+h1{
+    font-family: 'Futura', Verdana, sans-serif;
+    margin: auto;
+    width: 225px;
+    padding: 50px;
+    padding-bottom: 10px;
+}
+
+li{
+    padding: 10px;
+}
+
+ul,ol{
+    margin: auto;
+    text-align: left;
+}
+
+ul{
+    width: 200px
+}
+
+ol{
+    width: 450px;
+}
+
+.home-link{
+    display: inline-block;
+    margin: 50px;
+}
+
